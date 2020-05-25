@@ -6,7 +6,7 @@
 
 ## Game Logs
 
-[18-05-2020](Game Session - 18-05-2020)
+[18-05-2020](Session_18-05-2020.md)
 
 
 ## Welcome to GitHub Pages
