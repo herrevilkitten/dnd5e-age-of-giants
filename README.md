@@ -4,6 +4,9 @@
 
 * [Tel Silberader](https://ddb.ac/characters/25791292/M4w1lV), Hill Dwarf Paladin of Berronar Truesilver
 
+### Party Info
+
+* [Accounting and Loot](Accounting.md)
 
 ### Game Logs
 
