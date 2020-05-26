@@ -1,10 +1,16 @@
 # Party Wealth
+Accounting policy: half of the coinage that the party acquires goes to a common fund.  The fund is for purchasing adventuring supplies, food, room and board, ammunition, etc.
 ### Coinage
 #### Total
-* XXX gp
+* 357 gp
 #### Log
-* May 5
+* Starting: 357gp
+* May 18
+	* +5/+5 pp
+	* +25/+25 gp
+* May 25
 	* +35 gp (from _bag of holding_)
+	
 
 ### Rations
 * 30 units
