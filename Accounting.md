@@ -15,4 +15,8 @@
 * From the _bag of holding_
 	* Small bag of gold (35gp)
 	* Scroll with instructions
+* Purchases
+	* 30 regular arrows
+	* 30 +1 arrows
+	* 10 +2 arrows
 
